@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juanyee
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Angular.
 - 💞️ I’m looking to collaborate on projects about Java and Javascript
 - 📫 How to reach me juan.yee@outlook.com
 
