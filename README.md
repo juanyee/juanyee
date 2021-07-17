@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @juanyee
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning Angular.
+- 👋 Hi, I’m Juan Yee, a Software Developer
+- 👀 I’m interested in learning any programming language and technology.
+- 🌱 I’m currently learning Angular, Jenkins and AWS.
 - 💞️ I’m looking to collaborate on projects about Java and Javascript
 - 📫 How to reach me juan.yee@outlook.com
 
